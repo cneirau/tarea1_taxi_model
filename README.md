@@ -25,12 +25,12 @@ Asegúrate de tener instalado Python 3.9 y pip. Los paquetes necesarios están l
 ## Configuración
 
 1. Clona el Repositorio
-
+```bash
 git clone https://github.com/tu_usuario/tarea1_taxi_model.git
 cd tarea1_taxi_model
 
 2. Instala los Requisitos
-
+```bash
 pip install -r requirements.txt
 
 ## Ejecución
